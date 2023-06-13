@@ -1,0 +1,8 @@
+dicts/*
+__pycache__/
+zksama_env/
+# oNLY add the examples dicts
+!/dicts/*example*.json
+# Only the "fondo" for background image
+images/*
+!/images/fondo.png

@@ -1,0 +1,48 @@
+{
+    "secret_code_stop_bot": "ALLCORRECT",
+    "twitter": {
+        "auth": {
+            "idUser_to_DMErrors": 0,
+            "access_token": "",
+            "access_token_secret": "",
+            "consumer_key": "",
+            "consumer_secret": ""
+        },
+        "text": {
+            "battle_3items": "{0} ha eliminado a {1}. Quedan {2} participantes.\n#animetwt #anitwt #tpn #AnimeRoyaleT1",
+            "winner": "¡Felicidades por la victoria!\n#animetwt #anitwt #tpn #AnimeRoyaleT1",
+            "finished_royale": "Pronto se anunciara el Anime Royale Temporada 2. Gracias a todos. \n#animetwt #anitwt",
+            "on_finihed_dm": "[SERVER] Ha finalizado el royale. Cambia el 'secretCode_stopBot'"
+        }
+    },
+    "filesPath": {
+        "imageAsesino": "/images/asesino.jpeg",
+        "imageVictima": "/images/victima.jpeg",
+        "imagePanel": "/images/panel.jpeg",
+        "txtInfo": "/images/tweetText.txt"
+    },
+    "firebase": {
+        "web": "firebaseio.com/",
+        "rutaFirebase": "/royale/t1"
+    },
+    "panelRoyale": {
+        "height": 620,
+        "width": 660,
+        "titulo": " ========================================================\n  @AnimeRoyaleBot  #AnimeRoyaleT1  -  Promised Neverland\n ========================================================\n",
+        "piePagina_3items": "=========================================================\n  TOTAL: {0}          VIVOS: {1}          ELIMINADOS: {2}\n=========================================================\n",
+        "saltoDeLinea": 5,
+        "font_X_toImage": "VeraMono.ttf",
+        "font_Panel": "DejaVuSansMono.ttf",
+        "colorText_vivos": "#FFFFFF",
+        "colorText_eliminados": "#c43636",
+        "sizeText": 19,
+        "backgroundColor": "#000000"
+    },
+    "other": {
+        "colorText_X_image": "#ff0000",
+        "tweetText_3items": "{0} ha eliminado a {1}. Quedan {2} participantes.\n#animetwt #anitwt #tpn #AnimeRoyaleT1",
+        "tweetText_winner": "¡Felicidades por la victoria!\n#animetwt #anitwt #tpn #AnimeRoyaleT1",
+        "tweetText_postRoyale": "Pronto se anunciara el Anime Royale Temporada 2. Gracias a todos. \n#animetwt #anitwt",
+        "twitterDM_onFinihed": "[SERVER] Ha finalizado el royale. Cambia el 'secretCode_stopBot'"
+    }
+}
